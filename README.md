@@ -1,1 +1,1 @@
-# Linear-Regression-Project-to-predict-Hosing-prices
+# Linear-Regression-Project-to-predict-Housing-prices
